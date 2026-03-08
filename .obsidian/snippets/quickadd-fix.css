@@ -1,0 +1,9 @@
+.setting-item-control input[type="text"], 
+.setting-item-control input:not([type]),
+.quickAddModal input {
+    display: inline-block !important;
+    visibility: visible !important;
+    min-height: 30px !important;
+    min-width: 200px !important;
+    border: 1px solid var(--background-modifier-border) !important;
+}
