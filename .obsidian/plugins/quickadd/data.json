@@ -1,23 +1,23 @@
 {
   "choices": [
     {
-      "id": "a6c063f5-e6b9-4d9b-94ff-1b58b2a9003d",
+      "id": "1ecc54f3-254c-4d8e-a9ed-798c97e99691",
       "name": "Capture IA",
       "type": "Capture",
       "command": false,
       "appendLink": false,
-      "captureTo": "",
-      "captureToActiveFile": true,
+      "captureTo": "Inbox/Discussion {{DATE}}.md",
+      "captureToActiveFile": false,
       "captureToCanvasNodeId": "",
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
-        "enabled": false,
+        "enabled": true,
         "createWithTemplate": false,
         "template": ""
       },
       "format": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "# Discussion IA {{DATE}}\n\n## Source: \n{{VALUE}}\n\nTags: #IA #capture #Obsidian\n"
       },
       "insertAfter": {
         "enabled": false,
