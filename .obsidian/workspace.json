@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -174,25 +174,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
-  "active": "183d38f138572783",
+  "active": "33024ca19dca4e96",
   "lastOpenFiles": [
-    "Test Vault-Comfy.md",
     "Inbox/Discussion 2026-03-08.md",
+    "Sans titre 1.md",
+    "Test Vault-Comfy.md",
     "Inbox",
     "Comment copier mes réponses en \"Brut\" pour ton coffre ?.md",
     "Raffineur Universel.md",
     "Sans titre.canvas",
     "Sans titre.md",
-    "Sans titre 1.md",
     "IA/Nouvelle conversation.md",
     "IA/Sans titre.md",
     "Upscale Universel.md"
